@@ -1,2 +1,3 @@
 # godepspy
-Go dep spy gives you insight in used depencies
+
+godepspy gives you insight in used dependencies
